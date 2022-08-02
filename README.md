@@ -8,7 +8,7 @@
 
 <p align="center">> Status do Projeto: Concluido :heavy_check_mark:</p>
     
-# Funcionalidades
+## Funcionalidades
 
 - [X] Visualizar todas as viagens disponíveis;
 - [X] Se candidatar para as viagens;
@@ -22,7 +22,7 @@
 - [X] Loadings;
 - [X] Responsividade para dispositivos móveis e desktops;
 
-# Informações de Login do Painel Admin
+## Informações de Login do Painel Admin
 - Email: astrodev@gmail.com.br
 - Senha: 123456
 
@@ -30,7 +30,7 @@
 
 > https://matheus-mantini-labex.surge.sh/
 
-# Desenvolvedor
+## Desenvolvedor
 [Matheus Mantini](https://www.linkedin.com/in/matheusmantini/)
 
 
