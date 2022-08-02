@@ -17,8 +17,6 @@
 - [X] Deletar viagens já cadastradas;
 - [X] Aprovar ou negar a candidatura de um cliente para determinada viagem;
 - [X] Fazer logout da área restrita;
-
-** Funcionalidades Extras **
 - [X] Loadings;
 - [X] Responsividade para dispositivos móveis e desktops;
 
