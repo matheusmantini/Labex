@@ -1,5 +1,4 @@
-# Projeto LabeX - Aventuras Intergaláticas
-
+<h1 align="center"> Projeto LabeX - Aventuras Intergaláticas </h1>
 Sistema de Viagens Interplanetárias.
 
 # Funcionalidades
