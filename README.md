@@ -28,21 +28,21 @@
 
 > https://matheus-mantini-labex.surge.sh/
 
-## Como rodar a aplicação: :play:
+## Como rodar a aplicação:
 
-No terminal, clone o projeto:
+1. No terminal, clone o projeto:
 > git clone https://github.com/matheusmantini/Labex.git
 
-Entre na pasta do projeto:
+2. Entre na pasta do projeto:
 > cd Labex
 
-Instale as dependências:
+3. Instale as dependências:
 > npm install
 
-Execute a aplicação:
+4. Execute a aplicação:
 > npm run start
 
-Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000/
+5. Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000/
 
 
 ## Desenvolvedor
