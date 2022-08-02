@@ -10,17 +10,17 @@
     
 # Funcionalidades
 
-- Visualizar todas as viagens disponíveis;
-- Se candidatar para as viagens;
-- Fazer login e logout da área restrita ao admin;
-- Criar novas viagens;
-- Deletar viagens já cadastradas;
-- Aprovar ou negar a candidatura de um cliente para determinada viagem;
-- Fazer logout da área restrita;
+- [X] Visualizar todas as viagens disponíveis;
+- [X] Se candidatar para as viagens;
+- [X] Fazer login e logout da área restrita ao admin;
+- [X] Criar novas viagens;
+- [X] Deletar viagens já cadastradas;
+- [X] Aprovar ou negar a candidatura de um cliente para determinada viagem;
+- [X] Fazer logout da área restrita;
 
 ** Funcionalidades Extras **
-- Loadings;
-- Responsividade para dispositivos móveis e desktops;
+- [X] Loadings;
+- [X] Responsividade para dispositivos móveis e desktops;
 
 # Informações de Login do Painel Admin
 - Email: astrodev@gmail.com.br
