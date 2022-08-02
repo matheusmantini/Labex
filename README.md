@@ -29,7 +29,6 @@
 > https://matheus-mantini-labex.surge.sh/
 
 ## Desenvolvedor
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> [Matheus Mantini </sub>]([https://github.com/Diana-ops](https://www.linkedin.com/in/matheusmantini/)) |
+[<img src="https://user-images.githubusercontent.com/71985890/182267290-64f66658-6eb5-4c88-a5f2-bfda8f909f00.jpg" width=115 > <br> <sub> [Matheus Mantini </sub>]([https://github.com/Diana-ops](https://www.linkedin.com/in/matheusmantini/)) |
 | :---: |
-
 
