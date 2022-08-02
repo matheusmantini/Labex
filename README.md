@@ -30,6 +30,21 @@
 
 ## Como rodar a aplicação: :play:
 
+No terminal, clone o projeto:
+> git clone https://github.com/matheusmantini/Labex.git
+
+Entre na pasta do projeto:
+> cd Labex
+
+Instale as dependências:
+> npm install
+
+Execute a aplicação:
+> npm run start
+
+Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000/
+
+
 ## Desenvolvedor
 <a href="https://www.linkedin.com/in/matheusmantini/">
 <img src="https://user-images.githubusercontent.com/71985890/182267290-64f66658-6eb5-4c88-a5f2-bfda8f909f00.jpg" width=115 > <br> <sub> Matheus Mantini </sub>
