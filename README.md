@@ -28,7 +28,7 @@
 
 > https://matheus-mantini-labex.surge.sh/
 
-## :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+## Como rodar a aplicação: :play:
 
 ## Desenvolvedor
 <a href="https://www.linkedin.com/in/matheusmantini/">
