@@ -26,6 +26,12 @@
 - Email: astrodev@gmail.com.br
 - Senha: 123456
 
+## Deploy da Aplicação com Netlify: :dash:
+
+/* Aqui estamos usando a tag Quotes do markdown*/
+
+> https://matheus-mantini-labex.surge.sh/
+
 # Desenvolvedor
 [Matheus Mantini](https://www.linkedin.com/in/matheusmantini/)
 
